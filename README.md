@@ -87,6 +87,11 @@ If you are using the types in a `commonjs` module like for example a node app yo
 
 Documentation can be found at [read the docs][docs]
 
+## Tutorials
+
+- [Programming a E-Commerce DApp on Ethereum in JavaScript](http://xc.hubwiz.com/course/5abbb7acc02e6b6a59171dd6?affid=github7878)
+- [Ethereum Contract and DApp Dev Introductory Course](http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=github7878)
+
 ## Contributing
 
 - All contributions have to go into the 1.0 branch
